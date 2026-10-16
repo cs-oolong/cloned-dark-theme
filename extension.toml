@@ -1,0 +1,7 @@
+id = "cloned-dark-theme"
+name = "Cloned Dark Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["cs-oolong"]
+description = "Cloned Dark from Gemini Chat Code Blocks"
+repository = "https://github.com/cs-oolong/cloned-dark-theme"
